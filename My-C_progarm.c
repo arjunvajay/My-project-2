@@ -3,6 +3,6 @@ int main()
 {
 printf("hello worldd");
 printf("hello Arjun V Ajay)";
-printf("Calc-Divide");
+printf("Calc-Divid");
 return x+y;
 }
